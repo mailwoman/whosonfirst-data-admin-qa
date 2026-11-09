@@ -48,7 +48,6 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        85676755,
         1108758119
     ],
     "wof:breaches":[],
@@ -62,8 +61,7 @@
             "continent_id":102191569,
             "country_id":85632299,
             "county_id":1108758119,
-            "locality_id":1344054389,
-            "region_id":85676755
+            "locality_id":1344054389
         }
     ],
     "wof:id":1344054389,
